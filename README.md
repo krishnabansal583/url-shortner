@@ -115,6 +115,11 @@ This feature helps track how many times a link has been clicked.
 
 ```
 url-shortener/
+assets/
+├── Screenshot (866).png
+├── Screenshot (868).png
+├── Screenshot (873).png
+├── Screenshot (874).png
 │
 ├── index.js           # Entry point
 ├── models/
@@ -124,6 +129,22 @@ url-shortener/
 ├── .env               # Environment variables
 ├── package.json
 ```
+## 📸 Screenshots
+
+### 🔗 url short
+(assets/Screenshot%20(866).png)
+
+### 🔗 decode shorten url
+(assets/Screenshot%20(868).png)
+
+### 🔗 visitcount
+(assets/Screenshot%20(873).png)
+
+### 🔗 Ai integration
+(assets/Screenshot%20(874).png)
+
+
+
 
 ## 🙋‍♂️ Author
 
